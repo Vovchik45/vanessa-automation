@@ -75,6 +75,10 @@
 			<Template>РазныеДействияСФормой18</Template>
 			<Template>ДляРазныеДействияСФормой18</Template>
 			<Template>ДляРазныеДействияСФормой18_2</Template>
+			<Template>selectRow</Template>
+			<Template>ДляselectRow</Template>
+			<Template>selectRow2</Template>
+			<Template>ДляselectRow2</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
